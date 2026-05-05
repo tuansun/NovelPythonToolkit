@@ -32,7 +32,7 @@ Bộ công cụ Python hỗ trợ viết tiểu thuyết dài hơi (đủ tiêu 
 
     Biên tập lại: python Bien_Tap.py
 
-##📁 Cấu trúc thư mục
+## 📁 Cấu trúc thư mục
 
     Viettieuthuyet_Sanderson.py: Script điều khiển chính.
 
@@ -46,6 +46,6 @@ Bộ công cụ Python hỗ trợ viết tiểu thuyết dài hơi (đủ tiêu 
 
     Chapters_Edited/: Chứa bản thảo đã qua biên tập.
 
-##📜 Giấy phép
+## 📜 Giấy phép
 
 Dự án được chia sẻ dưới giấy phép MIT. Tự do sử dụng và tùy biến cho mục đích sáng tác cá nhân.
